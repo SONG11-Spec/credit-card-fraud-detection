@@ -1,0 +1,22 @@
+# 忽略数据文件
+data/
+*.csv
+*.xlsx
+
+# 忽略模型文件
+models/
+*.pkl
+*.joblib
+
+# 忽略Python缓存
+__pycache__/
+*.pyc
+
+# 忽略Jupyter笔记本（如果有）
+.ipynb_checkpoints/
+*.ipynb
+
+# 忽略环境文件
+.env
+venv/
+env/
